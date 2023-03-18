@@ -1,0 +1,15 @@
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\obj\Debug\net6.0\Bibliotek.csproj.AssemblyReference.cache
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\obj\Debug\net6.0\Bibliotek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\obj\Debug\net6.0\Bibliotek.AssemblyInfoInputs.cache
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\obj\Debug\net6.0\Bibliotek.AssemblyInfo.cs
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\obj\Debug\net6.0\Bibliotek.csproj.CoreCompileInputs.cache
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\bin\Debug\net6.0\Bibliotek.exe
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\bin\Debug\net6.0\Bibliotek.deps.json
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\bin\Debug\net6.0\Bibliotek.runtimeconfig.json
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\bin\Debug\net6.0\Bibliotek.dll
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\bin\Debug\net6.0\Bibliotek.pdb
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\obj\Debug\net6.0\Bibliotek.dll
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\obj\Debug\net6.0\refint\Bibliotek.dll
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\obj\Debug\net6.0\Bibliotek.pdb
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\obj\Debug\net6.0\Bibliotek.genruntimeconfig.cache
+C:\Users\emil.embretsen\Desktop\bibliotek\Bibliotek\Bibliotek\obj\Debug\net6.0\ref\Bibliotek.dll
